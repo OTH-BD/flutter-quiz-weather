@@ -31,15 +31,11 @@ Une application Flutter simple et pédagogique qui combine :
 
 ---
 
-📸 Captures d'écran
+## 📸 Aperçu de l'application
 
-<p float="left">
-  <img src="images/weather.png" alt="Weather Screen" width="300" />
-  <img src="images/quiz1.png" alt="Quiz Question" width="300" />
-  <img src="images/quiz2.png" alt="Quiz Score" width="300" />
-</p>
-
----
+|           🌤 Weather           |                           ❓ Question Quiz                           |                        🏆 Score Quiz                        |
+|:-----------------------------:|:-------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| <img src="images/weather.png" width="250" alt="Météo" /> | <img src="images/quiz1.png" width="250" alt="Question Quiz" /> | <img src="images/quiz2.png" width="250" alt="Score Quiz" /> |
 
 ## 🚀 Installation
 
